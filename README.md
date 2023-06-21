@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Karibu Dinga !!
+
+This is a [Next.js 13](https://nextjs.org/) project  Based on a Responsive  Car Rental Website.
 
 ## Getting Started
 
