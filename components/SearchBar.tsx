@@ -1,6 +1,6 @@
 'use client'; 
 
-import {SearchManufacturer} from "./"
+import SearchManufacturer from "./SearchManufacturer"
 import React,{ useState} from "react"
 import Image from "next/image"
 import { manufacturers } from '../constants/index';

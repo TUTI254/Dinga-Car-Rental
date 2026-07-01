@@ -200,6 +200,14 @@
 }
 /* END: searchbar styles */
 
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 3px; }
+
+/* Smooth scroll */
+html { scroll-behavior: smooth; }
+
 /* START: search manufacturer styles */
 .search-manufacturer {
   @apply flex-1 max-sm:w-full flex justify-start items-center;
